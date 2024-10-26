@@ -1,6 +1,10 @@
 EbcedTurkishAlphabet
 
 Açılış:
+
+![screenshot](besmele.png)
+
+
 ![screenshot](1.png)
 
 Bazı işlemler:
